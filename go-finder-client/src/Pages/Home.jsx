@@ -141,7 +141,7 @@ const Home = () => {
         </button>
       </div>
 
-      {/* ✅ রেজাল্ট দেখানো */}
+
       {results.length > 0 && (
         <div className="px-5">
           <h3 className="text-lg font-semibold mb-2 text-center">
