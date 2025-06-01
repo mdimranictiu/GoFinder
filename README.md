@@ -1,7 +1,7 @@
 # Project Name: GoFinder ( A Real-Time Finder App)
 
 
-**Live Website:** [GoFinder](https://chatify-application.vercel.app/) 
+**Live Website:** [GoFinder](https://go-finder-client.vercel.app/) 
 
 **Chatify OverView**  
 GoFinder is a real-time location-based application designed to help users find and communicate with others instantly. Built using modern technologies like Socket.IO, it enables real-time data exchange, private messaging, and dynamic user interaction.
