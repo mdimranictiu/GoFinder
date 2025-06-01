@@ -9,7 +9,7 @@ GoFinder is a real-time location-based application designed to help users find a
 Whether you're trying to find friends, connect with clients, or collaborate with colleagues, GoFinder ensures fast, secure, and smooth communication with real-time updates and user status tracking. The application focuses on simplicity, responsiveness, and real-time interactivity.
 
  ## 🖼 Screenshot  
-![GoFinder](https://i.ibb.co/k2XmF0fm/Screenshot-12-4-2025-152438-chatify-application-vercel-app.jpg)
+![GoFinder](https://i.ibb.co/4RXxQpzF/Screenshot-1-6-2025-21511-localhost.jpg)
 
 ## 📖 Table of Contents
 
