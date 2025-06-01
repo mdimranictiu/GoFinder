@@ -54,7 +54,7 @@ Follow these steps to run the project locally:
 ### 1 Clone the Client Repository  
 ```
 git clone https://github.com/mdimranictiu/GoFinder
-cd GoFinder
+cd go-finder-client
 ```
 
 ### 2 Install Dependencies
