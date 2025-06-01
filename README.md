@@ -4,9 +4,7 @@
 **Live Website:** [GoFinder](https://go-finder-client.vercel.app/) 
 
 **GoFinder OverView**  
-GoFinder is a real-time location-based application designed to help users find and communicate with others instantly. Built using modern technologies like Socket.IO, it enables real-time data exchange, private messaging, and dynamic user interaction.
-
-Whether you're trying to find friends, connect with clients, or collaborate with colleagues, GoFinder ensures fast, secure, and smooth communication with real-time updates and user status tracking. The application focuses on simplicity, responsiveness, and real-time interactivity.
+GoFinder is a powerful real-time location-based web application designed to help users find nearby places and people efficiently. Whether you're looking for the nearest mosque, restaurant, tourist spot, or a specific service provider — GoFinder connects you with them in real-time using interactive maps and adjustable range filters.
 
  ## 🖼 Screenshot  
 ![GoFinder](https://i.ibb.co/4RXxQpzF/Screenshot-1-6-2025-21511-localhost.jpg)
