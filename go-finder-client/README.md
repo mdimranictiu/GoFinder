@@ -1,12 +1,74 @@
-# React + Vite
+# Project Name: GoFinder ( A Real-Time Finder App)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+**Live Website:** [GoFinder](https://chatify-application.vercel.app/) 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Chatify OverView**  
+GoFinder is a real-time location-based application designed to help users find and communicate with others instantly. Built using modern technologies like Socket.IO, it enables real-time data exchange, private messaging, and dynamic user interaction.
 
-## Expanding the ESLint configuration
+Whether you're trying to find friends, connect with clients, or collaborate with colleagues, GoFinder ensures fast, secure, and smooth communication with real-time updates and user status tracking. The application focuses on simplicity, responsiveness, and real-time interactivity.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ ## 🖼 Screenshot  
+![GoFinder](https://i.ibb.co/k2XmF0fm/Screenshot-12-4-2025-152438-chatify-application-vercel-app.jpg)
+
+## 📖 Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Dependencies used](#dependencies-used)
+- [Installation](#installation)
+
+
+## Features  
+
+- **Real-Time Location-Based Search**  
+- **Category-Based Filtering**   
+- **Responsive UI**
+
+---
+
+##  Tech Used 
+
+- **Frontend**: React.js, Tailwind CSS ,DaisyUI  
+- **Build Tool**: VS Code
+
+
+## 📦 Dependencies  
+The project uses the following npm packages:  
+```
+  "@tailwindcss/vite": "^4.1.7",
+    "axios": "^1.9.0",
+    "localforage": "^1.10.0",
+    "match-sorter": "^8.0.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.6.0",
+    "sort-by": "^1.2.0",
+    "tailwindcss": "^4.1.7"
+```
+
+##  Installation & Setup  
+Follow these steps to run the project locally:  
+ ## Client
+### 1 Clone the Client Repository  
+```
+git clone https://github.com/mdimranictiu/GoFinder
+cd GoFinder
+```
+
+### 2 Install Dependencies
+```
+npm install
+```
+### 3 Start the Development Server
+```
+npm run dev
+```
+ ## Resources & Links
+- React Documentation: https://react.dev
+- Tailwind CSS Documentation: https://tailwindcss.com
+- DaisyUI (Tailwind Components): https://daisyui.com
+- VS Code: https://code.visualstudio.com
+
+📌 Feel free to contribute, report issues, or share your feedback! 🚀
